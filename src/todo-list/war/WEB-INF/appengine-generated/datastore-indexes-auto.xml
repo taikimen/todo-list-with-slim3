@@ -1,0 +1,19 @@
+<!-- Indices written at Fri, 17 Sep 2010 14:22:12 UTC -->
+
+<datastore-indexes>
+
+    <!-- Used 20 times in query history -->
+    <datastore-index kind="Task" ancestor="false" source="auto">
+        <property name="closed" direction="asc"/>
+        <property name="email" direction="asc"/>
+        <property name="dueDate" direction="desc"/>
+    </datastore-index>
+
+    <!-- Used 20 times in query history -->
+    <datastore-index kind="Task" ancestor="false" source="auto">
+        <property name="closed" direction="asc"/>
+        <property name="email" direction="asc"/>
+        <property name="dueDate" direction="asc"/>
+    </datastore-index>
+
+</datastore-indexes>
