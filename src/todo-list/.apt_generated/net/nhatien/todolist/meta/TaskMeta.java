@@ -1,6 +1,6 @@
 package net.nhatien.todolist.meta;
 
-//@javax.annotation.Generated(value = { "slim3-gen", "@VERSION@" }, date = "2010-09-17 21:54:52")
+//@javax.annotation.Generated(value = { "slim3-gen", "@VERSION@" }, date = "2010-09-18 00:05:59")
 /** */
 public final class TaskMeta extends org.slim3.datastore.ModelMeta<net.nhatien.todolist.model.Task> {
 

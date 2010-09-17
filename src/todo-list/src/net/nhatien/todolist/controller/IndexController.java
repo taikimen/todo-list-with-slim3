@@ -15,6 +15,11 @@ import com.google.appengine.api.users.User;
 import com.google.appengine.api.users.UserService;
 import com.google.appengine.api.users.UserServiceFactory;
 
+/**
+ * 
+ * 
+ * @author shimazu
+ */
 public class IndexController extends Controller {
 
     @Override

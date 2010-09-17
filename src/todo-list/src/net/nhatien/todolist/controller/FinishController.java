@@ -9,6 +9,11 @@ import org.slim3.controller.Navigation;
 import com.google.appengine.api.datastore.Key;
 import com.google.appengine.api.datastore.KeyFactory;
 
+/**
+ * 
+ * 
+ * @author shimazu
+ */
 public class FinishController extends Controller {
 
     /**  */
